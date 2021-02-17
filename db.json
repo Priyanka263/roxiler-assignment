@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Leanne Graham",
+      "completed": "true",
+      "email": "Sincere@gmail.com"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "Ervin Howell",
+      "completed": "false",
+      "email": "Shanna@gmail.com",
+      "phone": "010-692-6593 x09125"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "title": "Clementine Bauch",
+      "completed": "false",
+      "email": "Nathan@yesenia.net",
+      "phone": "98585858558"
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "title": "Patricia Lebsack",
+      "completed": "false",
+      "email": "Julianne.OConner@gmail.com",
+      "phone": "98585858553"
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "title": "Chelsey Dietrich",
+      "completed": "true",
+      "email": "Lucio_Hettinger@gmail.com",
+      "phone": "98585858552"
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "title": "Dennis Schulist",
+      "completed": "true",
+      "email": "Karley_Dach@gmail.com",
+      "phone": "985858585585"
+    },
+    {
+      "id": 7,
+      "userId": 1,
+      "title": "Kurtis Weissnat",
+      "completed": "true",
+      "email": "Telly.Hoeger@gmail.com",
+      "phone": "98585858553"
+    }
+  ]
+}
